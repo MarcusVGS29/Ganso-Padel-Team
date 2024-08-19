@@ -3,27 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+.divmenu{
+    background-color: #046ffc;
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 30px;
+}
 .logo-topo{
     display: inline-block;
     width: 15vw;
     margin-left: 135px;
-}
-.topo {
-  
-    display: inline-block;
-    height: 100px;
-    justify-content:   center;
-    font-size: 60px;
-    text-align: center;
-    text-decoration: underline;
-    font-style: italic;
-    color: blue;
-
+    
 }
 
 .menu {
     text-align: center;
+    background-color: #d446f8;
+    
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 30px;
 
 }
 
@@ -32,7 +31,7 @@ a {
     font-size: 30px;
     font-style: italic;
     text-decoration: underline;
-    color: black;
+    color: #ffffff;
     margin-right: 50px;
     cursor: pointer;
 }
